@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.vidya.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Good Habits!!!</name>
+
+  <description>
+     खेल खेल में ... संस्कार
+  </description>
+
+  <author href="https://build.phonegap.com" email="seemajain17@gmail.com">
+      Vidya
+  </author>
+  <icon src="icon.png" />
+
+</widget>  
